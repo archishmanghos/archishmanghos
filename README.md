@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georama&color=FFC947&size=22&center=true&lines=Hey%2C+I+am+Archishman+Ghosh.;A+full-time+Competitive+Programmer.;And+a+part-time+Web+Developer.;Let+me+bring+some+pop-corn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC947&size=22&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hey!+I+am+Archishman+Ghosh.;A+full-time+Competitive+Programmer.;And+a+part-time+Web-Developer.;Let+me+bring+you+some+pop-corn!)](https://git.io/typing-svg)
 <p align="center"> <img src="https://profile-counter.glitch.me/{archishmanghos}/count.svg" alt="archishmanghos" /> </p>
 <br>
 <p align=center><img width="660px" src="https://miro.medium.com/max/1300/1*J7163_O9rLungyF7YPoZgA.png"></p>
