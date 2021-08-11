@@ -31,7 +31,7 @@
  
  <h1 align=center>A bit About Me :</h1>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC947&size=28&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=A+sophomore+at+Jalpaiguri+Government+Engineering+College.;Currently+pursuing+BTech+in+Information+Technology.;Competitive+Programmer+by+Heart+.;I+maintain+2+repos+for+CP+,++check+them+out!;Aaand%2C+I+am+a+car-fanatic+:+D;Would+love+to+connect+with+you!;Just+drop+a+mail+at+ag2324%40it.jgec.ac.in;Actively+looking+for+SDE+and+technical-content+internships.;Until+we+meet+again%2C+%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B+%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A5%A4;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC947&size=28&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=A+sophomore+at+Jalpaiguri+Government+Engineering+College.;Currently+pursuing+BTech+in+Information+Technology.;Competitive+Programmer+by+Heart.;I+maintain+2+repos+for+CP,++check+them+out!;Aaand%2C+I+am+a+car-fanatic+:+D;Would+love+to+connect+with+you!;Just+drop+a+mail+at+ag2324%40it.jgec.ac.in;Actively+looking+for+SDE+and+technical-content+internships.;Until+we+meet+again,+Keep+Hustling!;)](https://git.io/typing-svg)
  
 [![Archishman's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=archishmanghos&theme=react-dark&line=69bb20&point=69bb84)](https://github.com/archishmanghos)
 <p align=center><img src ="https://github-readme-streak-stats.herokuapp.com?user=archishmanghos&theme=darcula&hide_border=false&background=FFFFFF00&theme=merko"></p>
