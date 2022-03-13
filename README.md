@@ -4,15 +4,16 @@
 <p align=center><img width="660px" src="https://miro.medium.com/max/1300/1*J7163_O9rLungyF7YPoZgA.png"></p>
 <br>
 <h3 align="center">Connect with me :</h3>
-<p align=center>
-<a target="_blank" href="https://www.linkedin.com/in/archishman-ghosh-b83330198/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
-<a target="_blank" href="https://codeforces.com/profile/Archi"><img width="40px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/s1600/codeforces.png"/></a>
-<a target="_blank" href="https://atcoder.jp/users/archishmanghos"><img width="40px"src="https://media.vlpt.us/images/emeraldgoose/post/8f8486ac-ebd1-4e47-a24e-d1be9446ff88/atcoderlogo.png" width="22px"></a>
-<a target="_blank" href="https://www.codechef.com/users/archishmanghos"><img width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/></a>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100011552236202"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
-<a target="_blank" href="https://www.instagram.com/ar_chi_es/"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-<a target="_blank" href="https://twitter.com/ar_chi_es"><img width="40px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/></a>
-  </p>
+<p align="center">
+
+ [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archishman-ghosh-b83330198/)
+ [![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011552236202)
+ [![Badge](https://cp-logo.vercel.app/codechef/archishmanghos)](https://www.codechef.com/users/archishmanghos)
+ [![Badge](https://cp-logo.vercel.app/codeforces/OR-chi)](https://codeforces.com/profile/OR-chi)
+ [![Badge](https://cp-logo.vercel.app/atcoder/archishmanghos)](https://atcoder.jp/users/archishmanghos)
+ [![Badge](https://cp-logo.vercel.app/leetcode/archishmanghos)](https://www.leetcode.com/archishmanghos)
+
+</p>
 <br>
 <h3 align=center>My frequently used-tech :</h3>
 
