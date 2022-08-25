@@ -3,6 +3,11 @@
 <br>
 <p align=center><img width="660px" src="https://miro.medium.com/max/1300/1*J7163_O9rLungyF7YPoZgA.png"></p>
 <br>
+<b>&#128200; Some OJs' stats</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/semicolonised?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/OR-chi/cf-stats/main/output/light_card.svg" />
+</p>
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 
