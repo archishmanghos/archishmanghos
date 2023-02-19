@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=semicolonised&theme=highcontrast)](https://codeforces.com/profile/semicolonised)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=semicolonised)](https://codeforces.com/profile/semicolonised)
 </p>
 
 <h3 align="center">Connect with me :</h3>
