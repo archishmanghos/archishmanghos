@@ -3,15 +3,17 @@
 <br>
 <p align=center><img width="660px" src="https://miro.medium.com/max/1300/1*J7163_O9rLungyF7YPoZgA.png"></p>
 <br>
-<b>&#128200; Leetcode stats</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/semicolonised?theme=light&font=Karma&ext=contest" />
-<!-- <img height="280em" src="https://raw.githubusercontent.com/archishmanghos/cf-stats/main/output/light_card.svg" /> -->
-</p>
 
-<p align="center">
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=semicolonised)](https://codeforces.com/profile/semicolonised)
-</p>
+## 📈 Coding Profiles
+
+<span>
+<a href="https://codeforces.com/profile/semicolonised">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=semicolonised&theme=github_dark&force_username=true&border_color=404040" alt="semicolonised Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/semicolonised">
+<img height="316" src="https://leetcard.jacoblin.cool/semicolonised?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="semicolonised Leetcode Stats"/>
+</a>
+</span>
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
