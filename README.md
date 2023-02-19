@@ -8,15 +8,20 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/semicolonised?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/archishmanghos/cf-stats/main/output/light_card.svg" /> -->
 </p>
+
+<p align="center">
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=semicolonised&theme=highcontrast)](https://codeforces.com/profile/semicolonised)
+</p>
+
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 
  [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archishman-ghosh-b83330198/)
  [![Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011552236202)
  [![Badge](https://cp-logo.vercel.app/codechef/archishmanghos)](https://www.codechef.com/users/archishmanghos)
- [![Badge](https://cp-logo.vercel.app/codeforces/OR-chi)](https://codeforces.com/profile/OR-chi)
- [![Badge](https://cp-logo.vercel.app/atcoder/archishmanghos)](https://atcoder.jp/users/archishmanghos)
- [![Badge](https://cp-logo.vercel.app/leetcode/archishmanghos)](https://www.leetcode.com/archishmanghos)
+ ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=semicolonised)
+ [![Badge](https://cp-logo.vercel.app/atcoder/semicolonised)](https://atcoder.jp/users/semicolonised)
+ [![Badge](https://cp-logo.vercel.app/leetcode/semicolonised)](https://www.leetcode.com/semicolonised)
 
 </p>
 <br>
